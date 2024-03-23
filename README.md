@@ -17,7 +17,7 @@
 <br>
 <br>
 
-<p>Me in brief</p>
+<p>Me in brief:</p>
 
 - ***Name:***  Roman Dreval😎
   
