@@ -18,5 +18,9 @@
   
 - ***Fun Fact:*** Aspires to be a **Mr.Cool_Buisness_Cat (=^･ｪ･^=)**
 
+- ***Dreams:*** Visit every country in the world ✈
+
+
+
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
