@@ -21,7 +21,6 @@
   
 - ***Fun Fact:***  Aspires to be a **Mr.Cool_Buisness_Cat (=^･ｪ･^=)**
 
-
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h1 align="center"> 📇 Knowledge 📇 </h1>
