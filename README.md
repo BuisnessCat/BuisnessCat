@@ -37,6 +37,13 @@
 <br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<br>
+<h2 align="left"> Contact me:</h2>
+-Telegram
+
+-Gmail
+
+-Twitter
 
 
 
