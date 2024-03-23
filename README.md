@@ -6,21 +6,18 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-<br><br>
 
-- ***Name:*** Roman Dreval😎
+- ***Name:***  Roman Dreval😎
   
-- ***Studying:*** Backend Technologies 💻
+- ***Studying:***  Backend Technologies 💻
   
-- ***Goal:*** Seeking Fullstack Job 🎯
+- ***Goal:***  Seeking Fullstack Job 🎯
   
-- ***Hobbies:*** Reading Manga 📚, Playing Basketball 🏀
-  
-- ***Fun Fact:*** Aspires to be a **Mr.Cool_Buisness_Cat (=^･ｪ･^=)**
+- ***Hobbies:***  Reading Manga 📚, Playing Basketball 🏀
 
-- ***Dreams:*** Visit every country in the world ✈
-
-
+- ***Dreams:***  Visit every country in the world ✈
+  
+- ***Fun Fact:***  Aspires to be a **Mr.Cool_Buisness_Cat (=^･ｪ･^=)**
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
