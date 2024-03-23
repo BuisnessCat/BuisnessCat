@@ -23,16 +23,16 @@
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<br>
-<h2 align="center"> 📇 Knowledge 📇 </h2>
+
+<h1 align="center"> 📇 Knowledge 📇 </h1>
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="100" height="100" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="100" height="100" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="100" height="100" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="100" height="100" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="100" height="100" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="100" height="100" />
 </div>
 
 
