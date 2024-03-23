@@ -25,6 +25,7 @@
   <br><br>
 
 <h2 border-bottom="none" align="center">Knowledge</h2>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <br>
 <div align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="100" height="100" />
