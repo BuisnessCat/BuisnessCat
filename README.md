@@ -26,7 +26,7 @@
   
 - ***Hobbies:***  Reading Manga 📚, Playing Basketball 🏀
   
-- ***Fun Fact:***  Aspires to be a **Mr.Cool_Buisness_Cat (=^･ｪ･^=)**
+- ***Fun Fact:***  Aspires to be a **Mr.Cool_Buisness_Cat 😺**
 <br>
 <p>Contact me:<p/>
 
