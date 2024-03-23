@@ -27,8 +27,8 @@
   
 - ***Fun Fact:***  Aspires to be a **Mr.Cool_Buisness_Cat (=^･ｪ･^=)**
 
-- ***Contact me:*** -*Telegram:* [@Nooowaybro](https://t.me/Nooowaybro)
-
+- ***Contact me:*** *Telegram:* [@Nooowaybro](https://t.me/Nooowaybro)
+                    *Gmail:*dreval.roman@gmail.com
 <br><br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
