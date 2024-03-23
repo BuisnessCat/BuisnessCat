@@ -8,9 +8,14 @@
 <br><br>
 
 - ***Name:*** Roman Dreval😎
+  
 - ***Studying:*** Backend Technologies 💻
+  
 - ***Goal:*** Seeking Fullstack Job 🎯
+  
 - ***Hobbies:*** Reading Manga 📚, Playing Basketball 🏀
+  
 - ***Fun Fact:*** Aspires to be a **Mr.Cool_Buisness_Cat (=^･ｪ･^=)**
+
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
