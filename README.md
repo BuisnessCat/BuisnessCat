@@ -3,12 +3,12 @@
 <p align="center">I'm a programmer fueled by passion and driven by curiosity. Realising just how much technology has brought into our lives - has immersed me into the world of coding and creativity irrevocably. And my interest in technology just keeps growing and growing every year! I'm very excited to use/create technology to make cool things!</p>
 <br>
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="100" height="100" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="100" height="100" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="100" height="100" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="100" height="100" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="100" height="100" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="100" height="100" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="80" height="80" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="80" height="80" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="80" height="80" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="80" height="80" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="80" height="80" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="80" height="80" />
 </div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
