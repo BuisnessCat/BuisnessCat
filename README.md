@@ -21,8 +21,6 @@
   
 - ***Fun Fact:***  Aspires to be a **Mr.Cool_Buisness_Cat (=^･ｪ･^=)**
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 <h1 align="center"> 📇 Knowledge 📇 </h1>
 
 <div align="center">
@@ -33,6 +31,8 @@
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="100" height="100" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="100" height="100" />
 </div>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
 
