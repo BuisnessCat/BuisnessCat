@@ -20,4 +20,4 @@
 
 - ⚡ Fun fact **I think I'm funny**
 
-<br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
