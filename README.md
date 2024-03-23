@@ -27,23 +27,11 @@
   
 - ***Fun Fact:***  Aspires to be a **Mr.Cool_Buisness_Cat (=^･ｪ･^=)**
 
-- ***Contact me:*** 
+- ***Contact me:*** Telegram: Gmail: X:
 
-  <br><br>
-  <br><br>
-<br>
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="100" height="100" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="100" height="100" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="100" height="100" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="100" height="100" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="100" height="100" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="100" height="100" />
-</div>
-<br>
-
+<br><br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<br>
+
 
 
 
