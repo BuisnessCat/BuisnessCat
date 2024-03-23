@@ -24,7 +24,7 @@
   <br><br>
   <br><br>
 
-<p align="center">Knowledge</p>
+<h2 align="center"></h2>
 <br>
 <div align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="100" height="100" />
