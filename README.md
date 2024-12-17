@@ -7,8 +7,6 @@
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="80" height="80" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="80" height="80" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="80" height="80" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="80" height="80" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="80" height="80" />
 </div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
