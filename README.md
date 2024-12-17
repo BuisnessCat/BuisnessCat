@@ -18,15 +18,12 @@
 
 <p>Me in brief:</p>
 
-- ***Name:***  Roman Dreval😎
+- ***Name:***  Roman Dreval
   
-- ***Studying:***  Backend Technologies 💻
+- ***Studying:***  Backend Technologies
   
-- ***Goal:***  Seeking Fullstack Job 🎯
+- ***Goal:***  Seeking Fullstack Job
   
-- ***Hobbies:***  Reading Manga 📚, Playing Basketball 🏀
-  
-- ***Fun Fact:***  Aspires to be a **Mr.Cool_Buisness_Cat 😺**
 <br>
 <p>Contact me:<p/>
 
